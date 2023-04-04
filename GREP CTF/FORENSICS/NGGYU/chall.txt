@@ -1,0 +1,7 @@
+DESCRIPTION
+.
+
+Author - @FusterCluck
+
+FLAG FORMAT:
+grepCTF{...}

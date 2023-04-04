@@ -1,0 +1,6 @@
+Then Jesus turned, and seeing them following, said to them, 'what do you SEEK?
+
+- JOHN 1:38
+
+FLAG FORMAT:
+grepCTF{...}

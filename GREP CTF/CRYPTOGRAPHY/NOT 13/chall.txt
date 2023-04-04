@@ -1,0 +1,7 @@
+DESCRIPTION
+ROT13 isn't the only substitution cipher out there.
+
+Author - @FusterCluck
+
+FLAG FORMAT:
+grepCTF{...}

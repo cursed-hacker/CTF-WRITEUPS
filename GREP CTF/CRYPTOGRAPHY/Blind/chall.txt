@@ -1,0 +1,6 @@
+Blinding.
+
+Author - @FusterCluck
+
+FLAG FORMAT:
+grepCTF{...}

@@ -1,0 +1,6 @@
+2 levels of eso should make my message impossible to decipher.
+
+Author - @FusterCluck
+
+FLAG FORMAT:
+grepCTF{...}

@@ -1,0 +1,6 @@
+I've heard about brainf#ck but what the f#ck js this?
+
+Author - @FusterCluck @ckc9759
+
+FLAG FORMAT:
+grepCTF{...}

@@ -1,0 +1,7 @@
+DESCRIPTION
+I was playing guitar and then this monkey came and broke all my strings 😢
+
+Author - @FusterCluck @ckc9759
+
+FLAG FORMAT:
+grepCTF{...}
