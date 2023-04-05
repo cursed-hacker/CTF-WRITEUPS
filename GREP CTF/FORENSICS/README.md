@@ -67,10 +67,48 @@ grepCTF{r1ck_4stl3y_g1v1ng_m3_up}
 ### Description
 > Then Jesus turned, and seeing them following, said to them, 'what do you SEEK?
 
-> - JOHN 1:38
+> JOHN 1:38
 
 > FLAG FORMAT : grepCTF{...}
 
 ### About this challange
 
 > We get a file named "**steg.jpg**"
+
+> The challange says `Steg` & `Seek`
+
+> So i tried this 
+
+```bash
+└─$ stegseek steg.jpg               
+StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
+
+[i] Found passphrase: "cuteessort37"     
+[i] Original filename: "orig.zip".
+[i] Extracting to "steg.jpg.out".
+```
+> Now we got the zip file but it is password protected
+
+> So i tried this 
+
+```bash
+└─$ zip2john steg.jpg.out > hash 
+└─$ john -w=/usr/share/wordlists/rockyou.txt hash
+└─$ john -show hash 
+
+steg.jpg.out/flag.txt:jesuslove:flag.txt:steg.jpg.out::steg.jpg.out
+```
+
+```bash
+└─$ unzip -P jesuslove steg.jpg.out
+Archive:  steg.jpg.out
+ extracting: flag.txt 
+```
+
+```bash
+└─$ cat flag.txt         
+```
+
+```diff
++ grepCTF{tw0_l3v3ls_0f_st3g} 
+```
