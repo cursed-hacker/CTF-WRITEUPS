@@ -55,8 +55,8 @@ Z3JlcENURntyM2ozY3RfaHVtNG4xdHlfZzBfYjRja190MF9tMG5rM30K
 
 > We get
 
-```
-grepCTF{r1ck_4stl3y_g1v1ng_m3_up}
+```diff
++ grepCTF{r1ck_4stl3y_g1v1ng_m3_up}
 ```
 
 ---------------------------
