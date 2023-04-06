@@ -1,0 +1,5 @@
+Made by MetaCTF
+
+Oh no! I was working on this challenge and totally forgot to save a backup of the decryption key! Do you think you could take a look and see if you can recover it for me?
+
+NOTE: The flag format is MetaCTF{}
