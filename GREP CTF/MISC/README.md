@@ -94,8 +94,39 @@
 + grepCTF{3sot3r1c_l4ngu4g3s_4r3_0k!}
 ```
 
+---------------------------
+---------------------------
+
+# Layouts
+
+### Description
+> I've got this weird `keyboard` which has all the keys messed up. It's from someone called the `workman`.
+
+> FLAG FORMAT : grepCTF{...}
+
+### About this challange
+
+> We get a file named "msg.txt", which contains following
+
+```
+Fy, sflla-oflla, hppla-oflla, jpf assfluk' U'l a yflak
+Dyab U gpbba hp bp grb ub bywpfgy bp jpf U'l sf;rwyflak•
+Ukkpcabucr akh U'l lahr pt wfvvrw sp byab akjbyukg
+Jpf saj us wumpmyrbuk' ptt pt lr, akh ub'oo gofr bp jpf akh
+U'l hrcasbabukg, lpwr byak rcrw hrlpksbwabukg
+Ypd bp gucr a lpbyrwtfmeuk' afhurkmr a trroukg ouer ub's orcubabukg
+Krcrw tahukg, akh U ekpd byr yabrws awr tpwrcrw daubukg
+Tpw byr haj byab byrj mak saj U troo ptt, byrj'oo vr mrorvwabukg
+Jpfw toag us w4;g0h_rl1k3l_3256gh62 uk byr fsfao tpwlab
+```
+
+> After reading the description we get `keyoard` & `workman`, so i went to "**https://awsm-tools.com/keyboard-layout**"
+
+![image](https://user-images.githubusercontent.com/23734041/230279967-f83ca93d-a903-43ff-8366-9a86bda1be29.png)
 
 
-
+```diff
++ grepCTF{r4pg0d_em1n3m_3256gd62}
+```
 
 
