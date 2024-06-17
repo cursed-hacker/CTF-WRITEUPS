@@ -1,0 +1,8 @@
+Author : cursed_hacker
+
+Chall Name : who named these zips ???
+
+Description : what do you mean I have to use infinite loop ?
+Flag Syntax : THMCTF{}
+
+Score : 200

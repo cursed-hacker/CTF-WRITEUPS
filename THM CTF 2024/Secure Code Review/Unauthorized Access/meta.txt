@@ -1,0 +1,8 @@
+Author : cursed_hacker
+
+Chall Name : Unauthorised Access
+
+Description : "The eyes only see what the mind is prepared to comprehend" , find insecure @app.route.
+Flag Syntax : THMCTF{/this/is/random}
+
+Score : 200

@@ -1,0 +1,8 @@
+Author : cursed_hacker
+
+Chall Name : I don't think this is a zip bomb
+
+Description : I tried zip2john but no luck, she asked me to use commonsense.
+Flag Syntax : THMCTF{}
+
+Score : 100

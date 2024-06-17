@@ -1,0 +1,8 @@
+Author : cursed_hacker
+
+Chall Name : She Is My "X"
+
+Description : Now i have to brute force and decrypt also ?
+Flag Syntax : THMCTF{}
+
+Score : 150

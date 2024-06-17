@@ -1,0 +1,8 @@
+Author : cursed_hacker
+
+Chall Name : Blind Rev
+
+Description : Why is range replaced with "?"
+Flag Syntax : THMCTF{}
+
+Score : 80
